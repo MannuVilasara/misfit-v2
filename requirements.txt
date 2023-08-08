@@ -1,0 +1,6 @@
+discord.py
+PyYAML==6.0
+dacite==1.6.*
+requests
+pymongo
+PyNaCl
